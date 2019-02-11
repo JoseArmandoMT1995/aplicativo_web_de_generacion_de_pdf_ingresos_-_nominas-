@@ -1,0 +1,91 @@
+[28-Jun-2018 14:42:26 America/Chicago] PHP Warning:  require(../libreriasfpdf17/fpdf.php): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/proceso/cfdi_nominwin.php on line 2
+[28-Jun-2018 14:42:26 America/Chicago] PHP Fatal error:  require(): Failed opening required '../libreriasfpdf17/fpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ciberwin/public_html/xmls/proceso/cfdi_nominwin.php on line 2
+[28-Jun-2018 14:46:14 America/Chicago] PHP Warning:  require(../libreriasfpdf17/fpdf.php): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/proceso/cfdi_nominwin.php on line 2
+[28-Jun-2018 14:46:14 America/Chicago] PHP Fatal error:  require(): Failed opening required '../libreriasfpdf17/fpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ciberwin/public_html/xmls/proceso/cfdi_nominwin.php on line 2
+[03-Oct-2018 14:02:46 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/277/nomina/xml/N-000285.xml:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:02:46 America/Chicago] PHP Warning:  simplexml_load_file(): o;?&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:02:46 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:02:46 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[03-Oct-2018 14:06:29 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/612/nomina/xml/N-000285.xml:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:06:29 America/Chicago] PHP Warning:  simplexml_load_file(): o;?&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:06:29 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:06:29 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[03-Oct-2018 14:09:09 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/347/nomina/xml/N-000285.xml:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:09:09 America/Chicago] PHP Warning:  simplexml_load_file(): o;?&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:09:09 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:09:09 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[03-Oct-2018 14:12:52 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/834/nomina/xml/N-000285.xml:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:12:52 America/Chicago] PHP Warning:  simplexml_load_file(): o;?&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:12:52 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[03-Oct-2018 14:12:52 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/654/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/654/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 12:18:13 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 12:18:13 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/886/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/886/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 19:42:09 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 19:42:09 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/459/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/459/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 20:10:56 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[12-Oct-2018 20:10:56 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/993/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/993/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:41:05 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:41:05 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/644/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/644/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:43:19 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:43:19 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/997/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/997/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:56:10 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[13-Oct-2018 14:56:10 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/613/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/613/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[29-Oct-2018 17:24:58 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[29-Oct-2018 17:24:58 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[16-Nov-2018 13:21:54 America/Chicago] PHP Warning:  fopen(../usuario/354/nomina/qr/354.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/fpdf17/fpdf.php on line 1232
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/ciberwin/public_html/xmls/proceso/Guardar_archivos.php on line 48
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/224/nomina/xml/:1: parser error : Document is empty in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  simplexml_load_file(): ../usuario/224/nomina/xml/:1: parser error : Start tag expected, '&lt;' not found in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  simplexml_load_file():  in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[21-Nov-2018 17:00:07 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/ciberwin/public_html/xmls/proceso/index.php on line 44
+[21-Nov-2018 17:00:07 America/Chicago] PHP Fatal error:  Call to a member function getDocNamespaces() on a non-object in /home/ciberwin/public_html/xmls/proceso/index.php on line 45
+[23-Nov-2018 13:33:20 America/Chicago] PHP Warning:  imagepng(../usuario/649/nomina/qr/649.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/phpqrcode/qrimage.php on line 43
+[23-Nov-2018 13:33:21 America/Chicago] PHP Warning:  fopen(../usuario/777/nomina/qr/777.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/fpdf17/fpdf.php on line 1232
+[23-Nov-2018 13:33:21 America/Chicago] PHP Warning:  fopen(../usuario/649/nomina/qr/649.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/fpdf17/fpdf.php on line 1232
+[23-Nov-2018 13:35:14 America/Chicago] PHP Warning:  fopen(../usuario/130/nomina/qr/130.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/fpdf17/fpdf.php on line 1232
+[23-Nov-2018 13:35:14 America/Chicago] PHP Warning:  fopen(../usuario/81/nomina/qr/81.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/fpdf17/fpdf.php on line 1232
+[23-Nov-2018 13:55:18 America/Chicago] PHP Warning:  fopen(../usuario/64/nomina/qr/64.png): failed to open stream: No such file or directory in /home/ciberwin/public_html/xmls/librerias/fpdf17/fpdf.php on line 1232

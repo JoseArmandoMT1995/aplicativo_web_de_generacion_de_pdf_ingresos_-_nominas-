@@ -1,0 +1,171 @@
+.backheader1{
+  background: url('../imagenes/factuwin.jpg') no-repeat bottom center scroll ;
+  background-color: #222;
+  width: 100%;
+  height: auto;
+  display: table;
+  text-align: center;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.backheader2{
+  background: url('../imagenes/piano2.jpg') no-repeat bottom center scroll ;
+  background-color: #222;
+  width: 100%;
+  height: auto;
+  display: table;
+  text-align: center;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.navBar1{
+  background-color: rgba(10, 0, 0, 0.5);
+  color: white;
+}
+.navBar2{
+  background-color: rgba(10, 0, 0, 0.5);
+  color: white;
+  padding: : 5rem 5rem;
+}
+.navlink1 {
+  display: block;
+  padding: 0.5rem 1rem;
+}
+.navlink1{
+  color: white;
+  font-size: 1.2rem;
+}
+
+.navlink1:hover, .navlink1:focus {
+  text-decoration: none;
+}
+
+.navlink1.disabled {
+  color: white;
+}
+
+
+
+.backNosotros{
+	background-color: white;
+	width: 100%;
+  	height: auto;
+  	padding: 5rem 0;
+  	display: table;
+  	text-align: center;
+  	font-size: 1.2rem;
+  color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;	
+}
+.content{
+  padding: 15rem 2rem;
+  }
+.content-section{
+	padding: 5rem 2rem;
+	background-color: #222;
+	text-decoration-color: white;
+  height: auto;
+}
+.content-sectionwhite{
+	padding: 5rem 2rem;
+	background-color: e2e2e2;
+	text-decoration-color: white;
+}
+.contentC{
+	padding: 3rem 3rem 3rem;
+	display: table;
+	color: white;
+	width: 100%;
+	text-align: center;
+  background-color: black;
+}
+.galeria-box {
+  position: relative;
+  display: block;
+  max-width: 650px;
+  margin: 0 auto;
+}
+.galeria-box .galeria-box-caption {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  opacity: 0;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.74);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.galeria-box .galeria-box-caption .galeria-box-caption-content {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+.galeria-box .galeria-box-caption .galeria-box-caption-content .project-category,
+.galeria-box .galeria-box-caption .galeria-box-caption-content .project-name {
+  padding: 0 15px;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.galeria-box .galeria-box-caption .galeria-box-caption-content .project-category {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.galeria-box .galeria-box-caption .galeria-box-caption-content .project-name {
+  font-size: 18px;
+}
+
+.galeria-box:hover .galeria-box-caption {
+  opacity: 1;
+}
+
+.galeria-box:focus {
+  outline: none;
+}
+
+.carousel-item {
+  height: auto;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #222;
+  color: #222;
+  text-decoration-color: #222;
+}
+
+.text-color{
+  color: #eedd00 !important;
+}
+.text-cuerpo{
+  font-size: 1.2rem;
+}
+.text-titulo{
+font-size: 3.5rem;
+color: white;
+}
+ .h-400{
+  height: 400px !important;
+}
